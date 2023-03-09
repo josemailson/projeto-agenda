@@ -68,6 +68,6 @@ yarn-debug.log*
 !/storage/.keep
 /public/uploads
 
-/.parcel-cache
-
-/dist
+# Parcel related files
+dist/
+.parcel-cache/
